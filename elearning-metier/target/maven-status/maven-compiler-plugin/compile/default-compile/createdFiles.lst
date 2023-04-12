@@ -1,0 +1,3 @@
+com\groupeisi\Main.class
+com\groupeisi\impl\User.class
+com\groupeisi\interfaces\IUser.class
