@@ -1,5 +1,5 @@
 package com.groupeisi.interfaces;
 
-public interface IUser {
+public interface IUserService {
     public String helloMetier();
 }
