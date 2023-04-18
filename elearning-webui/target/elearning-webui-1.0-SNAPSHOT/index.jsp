@@ -36,7 +36,7 @@
 
 
         <!-- BEGIN Restart animation -->
-        <button class="restart" onClick="restart()"></button>
+        <a class="restart" onClick="restart()" href=""></a>
         <!-- END Restart animation -->
     </main>
     <!-- END Page -->
