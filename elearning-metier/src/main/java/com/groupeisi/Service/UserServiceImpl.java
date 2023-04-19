@@ -1,11 +1,11 @@
-package com.groupeisi.impl;
+package com.groupeisi.Service;
 
-import com.groupeisi.interfaces.IUserService;
+import com.groupeisi.Service.interfaces.IUserService;
 import com.groupeisi.repository.IUserRepository;
 import com.groupeisi.repository.UserRepository;
 
 
-public class UserService implements IUserService {
+public class UserServiceImpl implements IUserService {
     //inversion de controle
     private IUserRepository userRepository=new UserRepository();
     @Override

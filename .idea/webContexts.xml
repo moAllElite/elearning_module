@@ -5,6 +5,7 @@
       <map>
         <entry key="file://$PROJECT_DIR$/elearning-webui/src/main/webapp/index.jsp" value="file://$PROJECT_DIR$/elearning-webui/src/main/webapp" />
         <entry key="file://$PROJECT_DIR$/elearning-webui/src/main/webapp/views/layout.jsp" value="file://$PROJECT_DIR$/elearning-webui/src/main/webapp/views" />
+        <entry key="file://$PROJECT_DIR$/elearning-webui/src/main/webapp/views/student/addStudent.jsp" value="file://$PROJECT_DIR$/elearning-webui/src/main/webapp/views/student" />
       </map>
     </option>
   </component>

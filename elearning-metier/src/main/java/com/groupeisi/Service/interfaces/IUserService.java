@@ -1,4 +1,4 @@
-package com.groupeisi.interfaces;
+package com.groupeisi.Service.interfaces;
 
 public interface IUserService {
     public String helloMetier();

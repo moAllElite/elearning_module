@@ -1,3 +1,6 @@
 com\groupeisi\Main.class
-com\groupeisi\impl\UserService.class
-com\groupeisi\interfaces\IUserService.class
+com\groupeisi\model\User.class
+com\groupeisi\Service\UserServiceImpl.class
+com\groupeisi\model\User$UserBuilderImpl.class
+com\groupeisi\model\User$UserBuilder.class
+com\groupeisi\Service\interfaces\IUserService.class
